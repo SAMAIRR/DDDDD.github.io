@@ -14,7 +14,7 @@ body{
   width: 30rem;
   height: 14rem;
   border-radius: 1rem;
-  right: 5px;
+  right: 3.5px;
   top: 9.5rem;
 }
 .logo-navbar{
@@ -114,7 +114,7 @@ right: 7rem;
     position: absolute;
     top: 46rem;
     border-radius: 12px;
-    right: 8px;
+    right: 6px;
     }
     .kharid{
     position: absolute;
@@ -127,7 +127,7 @@ right: 7rem;
           width: 14rem;
           top: 31rem;
           border-radius: 12px;
-          right: 9px;
+          right: 6px;
     }
     .bace-tozi{
       position: absolute;
