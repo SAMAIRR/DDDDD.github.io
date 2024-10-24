@@ -6,3 +6,10 @@ a2.addEventListener("click",function(){
 a1.innerHTML="<h1>salam</h1>"
 a3.style.right="23.5rem"
 })
+
+let meno =document.getElementById("meno-navbar")
+
+
+meno.addEventListener("click",()=>{
+    alert(111)
+})
