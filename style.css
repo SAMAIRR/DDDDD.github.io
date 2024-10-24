@@ -105,12 +105,12 @@ right: 7rem;
 
     .pad{
     position: absolute;
-    width: 14rem;
+    width: 12rem;
     top: 31rem;
     border-radius: 12px;
     }
     .ketab{
-    width: 14rem;
+    width: 12rem;
     position: absolute;
     top: 46rem;
     border-radius: 12px;
@@ -118,13 +118,13 @@ right: 7rem;
     }
     .kharid{
     position: absolute;
-    width: 14rem;
+    width: 12rem;
     top: 46rem;
     border-radius: 12px;
     }
     .soal{
           position: absolute;
-          width: 14rem;
+          width: 12rem;
           top: 31rem;
           border-radius: 12px;
           right: 6px;
