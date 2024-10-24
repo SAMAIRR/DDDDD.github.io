@@ -8,7 +8,9 @@
 body{
   font-family: vazir;
 }
-
+   *{
+      box-sizing: border-box;
+    }
 .bord{
   position: absolute;
   width: 29rem;
