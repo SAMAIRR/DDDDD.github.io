@@ -8,15 +8,13 @@
 body{
   font-family: vazir;
 }
-   *{
-      box-sizing: border-box;
-    }
+
 .bord{
   position: absolute;
-  width: 29rem;
+  width: 100%;
   height: 14rem;
   border-radius: 1rem;
-  right: 3.5px;
+  right: 0;
   top: 9.5rem;
 }
 .logo-navbar{
@@ -37,13 +35,13 @@ body{
 
   .name-navbar{
      
-width: 31rem;
+width: 28rem;
      
 display: flex;
      
 position: absolute;
      
-left: -0.8rem;
+right: 8px;
      
 top: 6px;
   }
@@ -61,7 +59,7 @@ top: 6px;
   background: #6483ed;
   border-radius: 1rem;
   top: 7rem;
-  right: 12.2rem;
+  right: 11.8rem;
  }
  .name-navbar li:hover{
   color: #6483ed;
@@ -71,8 +69,8 @@ top: 6px;
   color: white;
   top: 10rem;
   direction: rtl;
-  font-weight: 100;
-  right: 1rem;
+  font-weight: 300;
+  right: 2rem;
   font-size: 18px;
  }
  .aee{
@@ -90,7 +88,7 @@ right: 7rem;
     color: white;
     top: 17.5rem;
     direction: rtl;
-    font-weight: 100;
+    font-weight: 300;
     right: 5rem;
     font-size: 13px;
     width: 21rem;
@@ -107,39 +105,38 @@ right: 7rem;
 
     .pad{
     position: absolute;
-    width: 12.5rem;
+    width: 100%;
     top: 31rem;
-    border-radius: 12px;
-            left:1.5rem;
+    left: 0;
 
     }
     .ketab{
-    width: 12.5rem;
-    position: absolute;
-    top: 46rem;
-    border-radius: 12px;
-    right: 6px;
+      width: 100%;
+      position: absolute;
+      top: 46rem;
+      border-radius: 12px;
+      right: 8px;
+      z-index: 1;
     }
     .kharid{
     position: absolute;
-    width: 12.5rem;
+    width: 100%;
     top: 46rem;
-    border-radius: 12px;
-      left:1.5rem;
+    left: 0;
     }
     .soal{
           position: absolute;
-          width: 12.5rem;
+          width: 100%;
           top: 31rem;
           border-radius: 12px;
-          right: 6px;
+          right: 9px;
     }
     .bace-tozi{
       position: absolute;
       top: 25rem;
       font-size: 25px;
       direction: rtl;
-      font-weight: 400;
+      font-weight: 100;
       right: 9rem;
     }
     .soa-1{
@@ -153,7 +150,7 @@ right: 7rem;
       font-size: 16px;
       direction: rtl;
       width: 451px;
-      right: 1rem;
+      right: 2rem;
 
 
     }      
@@ -230,11 +227,6 @@ color: white;
 font-size: 37px;
   
 left: 3rem;
-      background: #6f6f6f;
-    width: 6rem;
-    height: 3rem;
-    text-align: center;
-    border-radius: 3rem;
 }
 .akhlaq-pic{
   
@@ -282,11 +274,6 @@ font-size: 14px;
     color: white;
     font-size: 37px;
     left: 3rem;
-        background: #6f6f6f;
-    width: 6rem;
-    height: 3rem;
-    text-align: center;
-    border-radius: 3rem;
 
   }
   .panah-pic{
@@ -335,11 +322,6 @@ border-radius: 1rem;
     color: white;
     font-size: 37px;
     left: 3rem;
-          background: #6f6f6f;
-    width: 6rem;
-    height: 3rem;
-    text-align: center;
-    border-radius: 3rem;
 }
     
     .shokr-pic{
@@ -354,12 +336,27 @@ border-radius: 1rem;
       
   right: 2rem;
     }
+    .cover-soal{}
 
-.cover-soal {
-    position: absolute;
-    width: 29rem;
-    height: 19rem;
-    border: 2px #5c7be5 solid;
-    top: 67rem;
-    right: 0rem;
-    border-radius: 15px;}
+
+.soal-1{position:absolute;top: 61rem;width: 99%;left: 3px;}
+
+.pad1{
+  position: absolute;
+    top: 91rem;
+    width: 100%;
+    left: 0;
+}
+.pad2{
+  position: absolute;
+    top: 98rem;
+    width: 100%;
+    left: 0;
+}
+.pad3{
+  position: absolute;
+    top: 105rem;
+    width: 100%;
+    left: 0;
+  z-index:10;
+}
