@@ -1,0 +1,336 @@
+@font-face {
+  font-family: vazir;
+  src: url(./font/Vazir-Medium.eot) format(eot);
+  src: url(./font/Vazir-Medium.ttf) format(ttf);   
+  src: url(./font/Vazir-Medium.woff) format(woff);
+  src: url(./font/Vazir-Medium.woff2) format(woff2);
+}
+body{
+  font-family: vazir;
+}
+
+.bord{
+  position: absolute;
+  width: 30rem;
+  height: 14rem;
+  border-radius: 1rem;
+  right: 5px;
+  top: 9.5rem;
+}
+.logo-navbar{
+  position: absolute;
+  width: 3rem;
+  top: 11px;
+  left: 15px;
+  opacity: 70%;
+  }
+  .meno-navbar{
+          position: absolute;
+          width: 4rem;
+          right: 4px;
+          top: 21px;
+          height: 44px;
+  }
+
+
+  .name-navbar{
+     
+width: 28rem;
+     
+display: flex;
+     
+position: absolute;
+     
+right: 8px;
+     
+top: 6px;
+  }
+  .name-navbar li{
+      margin: 16px;
+      position:relative;
+      align-items:center;
+      top:3.1rem;
+      font-size: 13px;
+  }
+ .zir-matn{
+  position: absolute;
+  width: 6rem;
+  height: 3px;
+  background: #6483ed;
+  border-radius: 1rem;
+  top: 7rem;
+  right: 11.8rem;
+ }
+ .name-navbar li:hover{
+  color: #6483ed;
+ }
+ .name-aee{
+  position: absolute;
+  color: white;
+  top: 10rem;
+  direction: rtl;
+  font-weight: 100;
+  right: 1rem;
+  font-size: 18px;
+ }
+ .aee{
+    position: absolute;
+    color: white;
+    top: 12.5rem;
+    direction: rtl;
+right: 7rem;
+    font-size: 18px;
+    width: 18rem;
+    text-wrap-style: balance;
+ }
+ .mani-aee{
+    position: absolute;
+    color: white;
+    top: 17.5rem;
+    direction: rtl;
+    font-weight: 100;
+    right: 5rem;
+    font-size: 13px;
+    width: 21rem;
+    text-wrap-style: balance;
+    }
+    .taqvim{
+      position: absolute;
+      top: 30rem;
+      width: 491px;
+      height: 75rem;
+      right: -13px;
+      border: transparent;
+    }
+
+    .pad{
+    position: absolute;
+    width: 14rem;
+    top: 31rem;
+    border-radius: 12px;
+    }
+    .ketab{
+    width: 14rem;
+    position: absolute;
+    top: 46rem;
+    border-radius: 12px;
+    right: 8px;
+    }
+    .kharid{
+    position: absolute;
+    width: 14rem;
+    top: 46rem;
+    border-radius: 12px;
+    }
+    .soal{
+          position: absolute;
+          width: 14rem;
+          top: 31rem;
+          border-radius: 12px;
+          right: 9px;
+    }
+    .bace-tozi{
+      position: absolute;
+      top: 25rem;
+      font-size: 25px;
+      direction: rtl;
+      font-weight: 100;
+      right: 9rem;
+    }
+    .soa-1{
+  position: absolute;
+  top: 62rem;
+  right: 9rem;
+  }
+    .soa-2{
+          position: absolute;
+      top: 67rem;
+      font-size: 16px;
+      direction: rtl;
+      width: 451px;
+      right: 2rem;
+
+
+    }      
+    .buten-soa{
+
+position: absolute;
+
+top: 82rem;
+
+right: 11rem;
+
+width: 8.5rem;
+
+background: #617ce5;
+
+height: 36px;
+
+border-radius: 9px;
+
+text-align: center;
+
+color: #ffffff;
+
+font-size: 18px;
+      direction:rtl;
+
+}
+.padcast{
+  
+position: absolute;
+  
+top: 86rem;
+  
+font-size: 23px;
+  
+right: 8rem;
+}
+.padcast-1{
+
+position: absolute;
+
+top: 92rem;
+
+width: 28rem;
+
+background: #8598e5;
+
+height: 4rem;
+
+right: 1.5rem;
+
+border-radius: 1rem;
+}
+.akhlaq-matn{
+
+position: absolute;
+
+top: 92.5rem;
+
+right: 13rem;
+
+color: white;
+
+font-size: 14px;
+}
+.play-1{
+  
+position: absolute;
+  
+top: 92.5rem;
+  
+color: white;
+  
+font-size: 37px;
+  
+left: 3rem;
+}
+.akhlaq-pic{
+  
+position: absolute;
+  
+top: 92.3rem;
+  
+width: 3.5rem;
+  
+border-radius: 3rem;
+  
+right: 2rem;
+}
+.padcast-2{
+position: absolute;
+
+top: 99rem;
+
+width: 28rem;
+
+background: #8598e5;
+
+height: 4rem;
+
+right: 1.5rem;
+
+border-radius: 1rem;
+}
+.panah-matn{
+
+position: absolute;
+
+top: 99.5rem;
+
+right: 12rem;
+
+color: white;
+
+font-size: 14px;
+
+}
+  .play-2{
+        position: absolute;
+    top: 99.5rem;
+    color: white;
+    font-size: 37px;
+    left: 3rem;
+
+  }
+  .panah-pic{
+    
+position: absolute;
+    
+top: 99.3rem;
+    
+width: 3.5rem;
+    
+border-radius: 3rem;
+    
+right: 2rem;
+  }
+.padcast-3{
+position: absolute;
+
+top: 106rem;
+
+width: 28rem;
+
+background: #8598e5;
+
+height: 4rem;
+
+right: 1.5rem;
+
+border-radius: 1rem;
+}
+.shokr-matn{
+
+  position: absolute;
+  
+  top: 106.5rem;
+  
+  right: 14rem;
+  
+  color: white;
+  
+  font-size: 14px;
+  
+  }
+    .play-3{
+          position: absolute;
+    top: 106.5rem;
+    color: white;
+    font-size: 37px;
+    left: 3rem;
+}
+    
+    .shokr-pic{
+      
+  position: absolute;
+      
+  top: 106.3rem;
+      
+  width: 3.5rem;
+      
+  border-radius: 3rem;
+      
+  right: 2rem;
+    }
