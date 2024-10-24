@@ -108,6 +108,8 @@ right: 7rem;
     width: 12rem;
     top: 31rem;
     border-radius: 12px;
+            left:3px;
+
     }
     .ketab{
     width: 12rem;
@@ -121,6 +123,7 @@ right: 7rem;
     width: 12rem;
     top: 46rem;
     border-radius: 12px;
+      left:3px;
     }
     .soal{
           position: absolute;
