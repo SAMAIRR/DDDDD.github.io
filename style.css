@@ -352,3 +352,12 @@ border-radius: 1rem;
       
   right: 2rem;
     }
+
+.cover-soal {
+    position: absolute;
+    width: 29rem;
+    height: 19rem;
+    border: 2px #5c7be5 solid;
+    top: 67rem;
+    right: 0.8rem;
+    border-radius: 15px;}
