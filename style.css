@@ -35,13 +35,13 @@ body{
 
   .name-navbar{
      
-width: 28rem;
+width: 100%;
      
 display: flex;
      
 position: absolute;
      
-right: 8px;
+right: -29px;
      
 top: 6px;
   }
@@ -136,7 +136,7 @@ right: 7rem;
       top: 25rem;
       font-size: 25px;
       direction: rtl;
-      font-weight: 100;
+      font-weight: 300;
       right: 9rem;
     }
     .soa-1{
