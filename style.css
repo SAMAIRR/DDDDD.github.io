@@ -172,7 +172,7 @@ right: 7rem;
       top: 25rem;
       font-size: 25px;
       direction: rtl;
-      font-weight: 100;
+      font-weight: 300;
       right: 9rem;
     }
     .soa-1{
@@ -396,6 +396,6 @@ border-radius: 1rem;
     left: 0;
   z-index:10;
 }
-h3:hover{
+.bace-meno h3:hover{
   color: #6483ed;
 }
