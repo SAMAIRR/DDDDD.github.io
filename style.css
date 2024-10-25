@@ -96,6 +96,7 @@ top: 6px;
   border-radius: 1rem;
   top: 7rem;
   right: 11.8rem;
+  transition: 0.3s;
  }
  .name-navbar li:hover{
   color: #6483ed;
@@ -172,7 +173,7 @@ right: 7rem;
       top: 25rem;
       font-size: 25px;
       direction: rtl;
-      font-weight: 300;
+      font-weight: 100;
       right: 9rem;
     }
     .soa-1{
@@ -190,6 +191,13 @@ right: 7rem;
 
 
     }      
+    .bace-soal{
+      position: absolute;
+      top: -1rem;
+      width: 100vw;
+      height: 1rem;
+      left: 0;
+    }
     .buten-soa{
 
 position: absolute;
@@ -396,6 +404,18 @@ border-radius: 1rem;
     left: 0;
   z-index:10;
 }
-.bace-meno h3:hover{
+.bace-meno  h3:hover{
   color: #6483ed;
+}
+.emal{
+  position: absolute;
+  width: 100%;
+  left: -53px;
+  top: 113rem;
+}
+.emal-matn{
+  position: absolute;
+  top: 111rem;
+  font-size: 16px;
+  right: 12rem;
 }
