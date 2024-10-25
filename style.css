@@ -407,7 +407,7 @@ border-radius: 1rem;
 .bace-meno  h3:hover{
   color: #6483ed;
 }
-.emal{
+/* .emal{
   position: absolute;
   width: 100%;
   left: -53px;
@@ -418,4 +418,10 @@ border-radius: 1rem;
   top: 111rem;
   font-size: 16px;
   right: 12rem;
+} */
+.foter{
+  position: absolute;
+  width: 100%;
+  top: 119rem;
+  left: 0;
 }
