@@ -7,6 +7,8 @@
 }
 body{
   font-family: vazir;
+ 
+ 
 }
 
 .bord{
@@ -143,29 +145,28 @@ right: 7rem;
     position: absolute;
     width: 100%;
     top: 31rem;
-    left: 0;
-
+    left: -8px;
     }
     .ketab{
       width: 100%;
       position: absolute;
       top: 46rem;
       border-radius: 12px;
-      right: 8px;
+      right: 0px;
       z-index: 1;
     }
     .kharid{
     position: absolute;
     width: 100%;
     top: 46rem;
-    left: 0;
+    left: -8px;
     }
     .soal{
           position: absolute;
           width: 100%;
           top: 31rem;
           border-radius: 12px;
-          right: 9px;
+          right: 0;
           filter: grayscale(1) blur(4px);
     }
     .bace-tozi{
@@ -495,13 +496,13 @@ font-size: 18px;
     
 position: absolute;
     
-top: 31rem;
+top: 34rem;
     
-right: 74px;
+right: 68px;
     
 color: #6b00ff;
     
 font-weight: bold;
     
-font-size: 3rem;
+font-size: 30px;
   }
