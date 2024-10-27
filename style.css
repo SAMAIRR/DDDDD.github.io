@@ -50,7 +50,7 @@ body{
   position: absolute;
   font-size: 15px;
   top: 4rem;
-  right: 7rem;
+  right: 8rem;
 }
 .meno-3{
   position: absolute;
@@ -151,7 +151,7 @@ right: 7rem;
       width: 100%;
       position: absolute;
       top: 46rem;
-      border-radius: 12px;
+      border-radius: -24px;
       right: 0px;
       z-index: 1;
     }
@@ -174,12 +174,12 @@ right: 7rem;
       top: 25rem;
       font-size: 25px;
       direction: rtl;
-      font-weight: 100;
+      font-weight: 500;
       right: 9rem;
     }
     .soa-1{
   position: absolute;
-  top: 62rem;
+  top: 63rem;
   right: 9rem;
   }
     .soa-2{
@@ -203,7 +203,7 @@ right: 7rem;
 
 position: absolute;
 
-top: 82rem;
+top: 81.5rem;
 
 right: 11rem;
 
@@ -222,6 +222,8 @@ color: #ffffff;
 font-size: 18px;
 
 direction:rtl;
+
+font-family: 'vazir';
 }
 .padcast{
   
@@ -231,7 +233,7 @@ top: 86rem;
   
 font-size: 23px;
   
-right: 8rem;
+right: 2rem;
 }
 .padcast-1{
 
@@ -265,13 +267,13 @@ font-size: 14px;
   
 position: absolute;
   
-top: 92.5rem;
+top: 93.3rem;
   
 color: white;
   
-font-size: 37px;
-  
 left: 3rem;
+  
+font-size: 12px;
 }
 .akhlaq-pic{
   
@@ -301,11 +303,10 @@ font-size: 14px;
 }
   .play-2{
         position: absolute;
-    top: 99.5rem;
-    color: white;
-    font-size: 37px;
-    left: 3rem;
-
+        top: 100.3rem;
+        color: white;
+        font-size: 12px;
+        left: 3rem;
   }
   .panah-pic{
     
@@ -335,10 +336,10 @@ right: 2rem;
   }
     .play-3{
           position: absolute;
-    top: 106.5rem;
-    color: white;
-    font-size: 37px;
-    left: 3rem;
+          top: 107.3rem;
+          color: white;
+          font-size: 12px;
+          left: 3rem;
 }
     
     .shokr-pic{
@@ -506,3 +507,53 @@ font-weight: bold;
     
 font-size: 30px;
   }
+  .bace-ketab{
+    position: absolute;
+    width: 100%;
+    height: 80rem;
+    top: 117rem;
+    overflow: scroll;
+    display: flex;
+    left: 0;
+  direction:rtl;
+}
+  .bace-ketab img{
+  position:relative;
+    top:-68px;
+    margin:70px 10px;
+    border:solid 1PX #7f47dd;
+    border-radius:15PX;
+  }  
+  .bace-ketab h4{
+    position:relative;
+      bottom:9rem;
+      margin:10px -10px;
+    right:rem;
+    text-align:center;
+    font-weight:200;
+    font-size:14PX;
+    }
+    .bace-ketab h5{
+      position:relative;
+      bottom:7rem;
+      margin:10px -10px;
+      right: 0rem;
+      text-align:center;
+      font-weight:200;
+      font-size:12PX;
+      }
+      .bace-ketab h6{
+        position:relative;
+          bottom:8.6rem;
+          margin:10px -10px;
+        left:3.5rem;
+        text-align:center;
+        font-weight:200;
+        font-size:11PX;
+        }
+.ketab-titel{
+      position: absolute;
+    top: 113rem;
+    font-size: 23px;
+    right: 2rem;
+}
