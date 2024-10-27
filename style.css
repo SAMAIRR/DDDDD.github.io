@@ -148,7 +148,7 @@ right: 7rem;
     left: -8px;
     }
     .ketab{
-      width: 100%;
+      width: 97%;
       position: absolute;
       top: 46rem;
       border-radius: -24px;
@@ -521,7 +521,7 @@ font-size: 30px;
   position:relative;
     top:-68px;
     margin:70px 10px;
-    border:solid 1PX #7f47dd;
+    border:solid 2.5PX #7f47dd;
     border-radius:15PX;
   }  
   .bace-ketab h4{
@@ -530,7 +530,7 @@ font-size: 30px;
       margin:10px -10px;
     right:rem;
     text-align:center;
-    font-weight:200;
+    font-weight:400;
     font-size:14PX;
     }
     .bace-ketab h5{
@@ -539,7 +539,7 @@ font-size: 30px;
       margin:10px -10px;
       right: 0rem;
       text-align:center;
-      font-weight:200;
+      font-weight:400;
       font-size:12PX;
       }
       .bace-ketab h6{
@@ -548,7 +548,7 @@ font-size: 30px;
           margin:10px -10px;
         left:3.5rem;
         text-align:center;
-        font-weight:200;
+        font-weight:400;
         font-size:11PX;
         }
 .ketab-titel{
@@ -556,4 +556,176 @@ font-size: 30px;
     top: 113rem;
     font-size: 23px;
     right: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <padcast page> */
+.bace-pad{
+  position: absolute;
+  width: 100%;
+  height: 108rem;
+  background: #dfdfdf;
+  left: 0;
+  top: 11rem;
+}
+.p2010{
+  position: absolute;
+  width: 85%;
+  border-radius: 12px;
+  right: 2.25rem;
+  top: 12rem;
+  height: 13rem;
+  background: #d7d7d7;
+}
+
+.p2010 img{
+  position: absolute;
+  right: 1rem;
+  top: 26px;
+  border-radius: 13px;
+  width: 7rem;
+  border: 2.5px solid #6600ff;
+  height: 7rem;
+}
+.p2010 h2{
+  position: absolute;
+  font-size: 18px;
+  width: 17rem;
+  direction: rtl;
+  top: 2rem;
+}
+.p2010 h3{
+  position: absolute;
+  top: 9.8rem;
+  right: 1rem;
+  font-size: 14px;
+}
+.p2010 button{
+  position: absolute;
+  top: 10rem;
+  width: 117px;
+  height: 2.3rem;
+  border: 0px;
+  background: #673AB7;
+  color: white;
+  font-family: 'vazir';
+  border-radius: 9px;
+  left: 14px;
+}
+
+.p2011{
+  position: absolute;
+  width: 85%;
+  border-radius: 12px;
+  right: 2.25rem;
+  top: 27rem;
+  height: 13rem;
+  background: #d7d7d7;
+}
+
+.p2011 img{
+  position: absolute;
+  right: 1rem;
+  top: 26px;
+  border-radius: 13px;
+  width: 7rem;
+  border: 2.5px solid #6600ff;
+  height: 7rem;
+}
+
+img {}
+.p2011 h2{
+  position: absolute;
+  font-size: 18px;
+  width: 17rem;
+  direction: rtl;
+  top: 2rem;
+}
+.p2011 h3{
+  position: absolute;
+  top: 9.8rem;
+  right: 1rem;
+  font-size: 14px;
+}
+.p2011 button{
+  position: absolute;
+  top: 10rem;
+  width: 117px;
+  height: 2.3rem;
+  border: 0px;
+  background: #673AB7;
+  color: white;
+  font-family: 'vazir';
+  border-radius: 9px;
+  left: 14px;
+}
+
+.p2012{
+  position: absolute;
+  width: 85%;
+  border-radius: 12px;
+  right: 2.25rem;
+  top: 42rem;
+  height: 13rem;
+  background: #d7d7d7;
+}
+
+.p2012 img{
+  position: absolute;
+  right: 1rem;
+  top: 26px;
+  border-radius: 13px;
+  width: 7rem;
+  border: 2.5px solid #6600ff;
+  height: 7rem;
+}
+.p2012 h2{
+  position: absolute;
+  font-size: 18px;
+  width: 17rem;
+  direction: rtl;
+  top: 2rem;
+}
+.p2012 h3{
+  position: absolute;
+  top: 9.8rem;
+  right: 1rem;
+  font-size: 14px;
+}
+.p2012 button{
+  position: absolute;
+  top: 10rem;
+  width: 117px;
+  height: 2.3rem;
+  border: 0px;
+  background: #673AB7;
+  color: white;
+  font-family: 'vazir';
+  border-radius: 9px;
+  left: 14px;
 }
