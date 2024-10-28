@@ -568,6 +568,7 @@ font-size: 30px;
 
 
 
+/*========================== <padcast page>========================== */
 
 
 
@@ -584,14 +585,13 @@ font-size: 30px;
 
 
 
-/* <padcast page> */
 .bace-pad{
   position: absolute;
   width: 100%;
-  height: 108rem;
+  height: 81rem;
   background: #dfdfdf;
   left: 0;
-  top: 11rem;
+  top: 9rem;
 }
 .p2010{
   position: absolute;
@@ -729,3 +729,153 @@ img {}
   border-radius: 9px;
   left: 14px;
 }
+.p2014{
+  position: absolute;
+  width: 85%;
+  border-radius: 12px;
+  right: 2.25rem;
+  top: 57rem;
+  height: 13rem;
+  background: #d7d7d7;
+}
+
+.p2014 img{
+  position: absolute;
+  right: 1rem;
+  top: 26px;
+  border-radius: 13px;
+  width: 7rem;
+  border: 2.5px solid #6600ff;
+  height: 7rem;
+}
+.p2014 h2{
+  position: absolute;
+  font-size: 18px;
+  width: 17rem;
+  direction: rtl;
+  top: 2rem;
+}
+.p2014 h3{
+  position: absolute;
+  top: 9.8rem;
+  right: 1rem;
+  font-size: 14px;
+}
+.p2014 button{
+  position: absolute;
+  top: 10rem;
+  width: 117px;
+  height: 2.3rem;
+  border: 0px;
+  background: #673AB7;
+  color: white;
+  font-family: 'vazir';
+  border-radius: 9px;
+  left: 14px;
+}
+
+.p2015{
+  position: absolute;
+  width: 85%;
+  border-radius: 12px;
+  right: 2.25rem;
+  top: 72rem;
+  height: 13rem;
+  background: #d7d7d7;
+}
+
+.p2015 img{
+  position: absolute;
+  right: 1rem;
+  top: 26px;
+  border-radius: 13px;
+  width: 7rem;
+  border: 2.5px solid #6600ff;
+  height: 7rem;
+}
+.p2015 h2{
+  position: absolute;
+  font-size: 18px;
+  width: 17rem;
+  direction: rtl;
+  top: 2rem;
+}
+.p2015 h3{
+  position: absolute;
+  top: 9.8rem;
+  right: 1rem;
+  font-size: 14px;
+}
+.p2015 button{
+  position: absolute;
+  top: 10rem;
+  width: 117px;
+  height: 2.3rem;
+  border: 0px;
+  background: #673AB7;
+  color: white;
+  font-family: 'vazir';
+  border-radius: 9px;
+  left: 14px;
+}
+
+
+/* <________________padcast-main-page________________> */
+.a2015{
+  position: absolute;
+  width: 95%;
+  border-radius: 12px;
+  right: 12px;
+  top: 2rem;
+  height: 51rem;
+  background: #d7d7d7;
+}
+
+.a2015 img{
+  position: absolute;
+  right: 8.5rem;
+  top: 26px;
+  border-radius: 13px;
+  width: 12rem;
+  border: 2.5px solid #6600ff;
+  height: 12rem;
+}
+.a2015 h2{
+  position: absolute;
+  font-size: 18px;
+  width: 26rem;
+  direction: rtl;
+  top: 15rem;
+  right: 2rem;
+}
+.a2015 h3{
+  position: absolute;
+  top: 18.8rem;
+  right: 10rem;
+  font-size: 14px;
+}
+.a2015 h4{
+  position: absolute;
+  top: 23rem;
+  width: 26rem;
+  right: 23px;
+  direction: rtl;
+}
+.pad-sond{
+  position: absolute;
+  width: 28rem;
+  height: 4rem;
+  background: #aeaeae;
+  top: 45rem;
+  text-align: center;
+  right: 8px;
+  border-radius: 16px;
+}
+audio{
+  position: relative;
+  top: 4px;
+}audio::-webkit-media-controls-panel {
+  background-color: #aeaeae;
+border: transparent;
+}
+
